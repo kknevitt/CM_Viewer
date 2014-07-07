@@ -1,0 +1,86 @@
+.left {
+	width: 200px; /*can be in percentage also.*/
+	height: 500px;
+	border: 2px solid;
+	float:left;
+	margin: auto;
+	padding: 10px;
+	margin-right: 20px;
+}
+
+.button {
+	margin: auto;
+}
+
+#map {
+    width: 840px; /*can be in percentage also.*/
+	height: 500px;
+    margin: 0 auto;
+    padding: 30px;
+	padding-top: 60px;
+	border: 2px solid;
+	background-color:#AFEEEE;
+	border-radius: 25px;
+	border-top-left-radius:0;
+	position: relative;
+	}
+	
+#infobox {
+	margin-top:500px;
+	width: 200px; /*can be in percentage also.*/
+	height: 150px;
+	margin: 0 auto;
+	position: relative;
+	border-radius: 25px;
+	}
+	
+	
+.node {
+	color: white;
+    float: left;
+    width: 64px;
+    height: 64px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+	background-color: #C094CC;
+    box-shadow: 10px 10px 5px #888888;
+	border: 2px solid;
+	text-align:center;
+	line-height: 64px;
+    border-radius: 25px;
+	position: absolute;	
+	opacity: 0.1;
+}
+
+.firstNode{
+	color: white;
+    float: left;
+    width: 64px;
+    height: 64px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+	background-color: #C094CC;
+    box-shadow: 10px 10px 5px #888888;
+	border: 2px solid;
+	text-align:center;
+	line-height: 64px;
+    border-radius: 25px;
+	position: absolute;	
+	top: 350px;
+	left: 150px;
+	opacity: 0.1;
+}
+
+.line {
+	color: white;
+	font-size:small;
+    float: left;
+	margin-top:25px;
+    width: 64px;
+	line-height: 15px;
+	text-align:center;
+    height: 15px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    background-color: grey;
+}
