@@ -1,21 +1,51 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+		<meta content="utf-8" http-equiv="encoding">
 		<link rel="stylesheet" type="text/css" href="Map_Style.css">
 		<script src="loadxmldoc.js"></script>
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+		<script type="text/javascript" src="Map_Browser_Fix.js"></script>
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
 		<script type="text/javascript" src="jquery.jsPlumb-1.4.1-all-min.js"></script>
 		<script type="text/javascript" src="Map_Viewer.js"></script>
+		<script type="text/javascript" src="jquery.overlaps.js"></script>
+		<script type="text/javascript" src="jquery.scrollTo.js"></script>
 		</head>
 	<body>
 	<div id="container">
 		<div class="left">
+		<div id="info_title"></div>
 
-			<div id="infobox"></div>
+			<div id="info_box">
+			<!-- <div id="picBox"> </div> -->
+				<img class=infoPic>
+				<div id="tabs">
+			  <ul>
+				<li><a href="#tabs-1">Nunc tincidunt</a></li>
+				<li><a href="#tabs-2">Proin dolor</a></li>
+				<li><a href="#tabs-3">Aenean lacinia</a></li>
+			  </ul>
+			  <div id="tabs-1">
+				<p>Proin elit arcu, </p>
+			  </div>
+			  <div id="tabs-2">
+				<p>Morbi tincidunt,.</p>
+			  </div>
+			  <div id="tabs-3">
+				<p>Mauris eleifend est et turpis</p>
+			  </div>
+			</div>
 			
+			</div>
+
+			
+			<div id= "button_box">
 			<button class="button" id="btn1">Fade out</button>
 			<button class="button" id="btn2">Fade in</button>
+			</div>
+			<div id ="nodeList"></div>
 		</div>
 		<div id="map">
 		</div>

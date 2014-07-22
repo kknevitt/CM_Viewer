@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conceptMap>
+
+	<title>SuperNovae</title>
+
+	<storableObject>
+		<node>
+			<name>SUPERNOVAE</name>
+			<info> </info>
+			<time>100</time>
+			<id>1</id>
+		</node>
+	</storableObject>
+
+	<storableObject>
+		<node>
+			<name>Caused by the death of the most massive stars</name>
+			<info> By massive, we mean stars that are several times more massive than our own sun. Our sun is too small to explode as a supernova.
+These stars die because there is a change at the core. This change can occur in two ways. The first results in a type 1, when a white dwarf accumulates matter from another star causing nuclear fusion to occur. This releases energy and results in an explosion.
+The second is a type 2, when a massive star runs out of nuclear fuel causing the star’s core to collapse and an explosion to occur. </info>
+			<time>26000</time>
+			<id>2</id>
+		</node>
+	</storableObject>
+	
+	<storableObject>
+		<node>
+			<name>Intense explosions</name>
+			<info> </info>
+			<time>36000</time>
+			<id>3</id>
+		</node>
+	</storableObject>	
+	
+		<storableObject>
+		<node>
+			<name>Observed as coloured starlight</name>
+			<info>This is called a supernova remnant. It occurs when the star’s shell collides with the gas in space.</info>
+			<time>46000</time>
+			<id>4</id>
+		</node>
+	</storableObject>
+	
+	<storableObject>
+		<node>
+			<name>Tools for the creation of our world</name>
+			<info>1 also tell us that we live in an expanding universe. They act as lanterns to indicate cosmic distances, eg. distance to the next galaxy.</info>
+			<time>57000</time>
+			<id>5</id>
+		</node>
+	</storableObject>
+	
+	<storableObject>
+		<node>
+			<name>Brief Events</name>
+			<info> </info>
+			<time>112000</time>
+			<id>6</id>
+		</node>
+	</storableObject>	
+	
+	<storableObject>
+		<node>
+			<name>Rare events</name>
+			<info> </info>
+			<time>123000</time>
+			<id>7</id>
+		</node>
+	</storableObject>
+	
+	<storableObject>
+		<node>
+			<name>Observed by using robotic telescope to compare pictures of many galaxies on different nights</name>
+			<info> </info>
+			<time>197000</time>
+			<id>8</id>
+		</node>
+	</storableObject>
+
+	
+		<storableObject>
+		<line>
+			<name>are</name>
+			<from>1</from>
+			<to>2</to>
+		</line>
+	</storableObject>
+	
+	<storableObject>
+		<line>
+			<name>are</name>
+			<from>1</from>
+			<to>2</to>
+		</line>
+	</storableObject>
+
+	<storableObject>
+		<line>
+			<name>are</name>
+			<from>1</from>
+			<to>4</to>
+		</line>
+	</storableObject>
+
+	<storableObject>
+		<line>
+			<name>are</name>
+			<from>1</from>
+			<to>5</to>
+		</line>
+	</storableObject>
+
+	<storableObject>
+		<line>
+			<name>are</name>
+			<from>1</from>
+			<to>6</to>
+		</line>
+	</storableObject>	
+
+		<storableObject>
+		<line>
+			<name>are</name>
+			<from>1</from>
+			<to>7</to>
+		</line>
+	</storableObject>	
+
+		<storableObject>
+		<line>
+			<name>are</name>
+			<from>1</from>
+			<to>7</to>
+		</line>
+	</storableObject>	
+
+</conceptMap>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conceptMap>
+
+	<title>SuperNovae</title>
+
+	<storableObject>
+		<node>
+			<name>SUPERNOVAE</name>
+			<info> </info>
+			<time>100</time>
+		</node>
+	</storableObject>
+
+	<storableObject>
+		<node>
+			<name>Caused by the death of the most massive stars</name>
+			<info> By massive, we mean stars that are several times more massive than our own sun. Our sun is too small to explode as a supernova.
+These stars die because there is a change at the core. This change can occur in two ways. The first results in a type 1, when a white dwarf accumulates matter from another star causing nuclear fusion to occur. This releases energy and results in an explosion.
+The second is a type 2, when a massive star runs out of nuclear fuel causing the star’s core to collapse and an explosion to occur. </info>
+			<time>26000</time>
+		</node>
+	</storableObject>
+	
+		<storableObject>
+		<line>
+			<name>are</name>
+			<from>SUPERNOVAE</from>
+			<to>Caused by the death of the most massive stars</to>
+		</line>
+	</storableObject>
+	
+		<storableObject>
+		<node>
+			<name>Observed as coloured starlight</name>
+			<info>This is called a supernova remnant. It occurs when the star’s shell collides with the gas in space.</info>
+			<time>46000</time>
+		</node>
+	</storableObject>
+	
+	<storableObject>
+		<line>
+			<name>are</name>
+			<from>SUPERNOVAE</from>
+			<to>Observed as coloured starlight</to>
+		</line>
+	</storableObject>
+	
+		<storableObject>
+		<node>
+			<name>Tools for the creation of our world</name>
+			<info>Supernovae also tell us that we live in an expanding universe. They act as lanterns to indicate cosmic distances, eg. distance to the next galaxy.</info>
+			<time>57000</time>
+		</node>
+	</storableObject>
+	
+	<storableObject>
+		<line>
+			<name>are</name>
+			<from>SUPERNOVAE</from>
+			<to>Tools for the creation of our world</to>
+		</line>
+	</storableObject>
+
+
+	<storableObject>
+		<node>
+			<name>They distribute elements into space to form new stars and planets</name>
+			<info> </info>
+			<time>59000</time>
+		</node>
+	</storableObject>
+	
+	<storableObject>
+		<line>
+			<name>as</name>
+			<from>Tools for the creation of our world</from>
+			<to>They distribute elements into space to form new stars and planets</to>
+		</line>
+	</storableObject>
+	
+	<storableObject>
+		<node>
+			<name>Brief Events</name>
+			<info> </info>
+			<time>112000</time>
+		</node>
+	</storableObject>	
+	
+	<storableObject>
+		<line>
+			<name>are</name>
+			<from>SUPERNOVAE</from>
+			<to>Brief Events</to>
+		</line>
+	</storableObject>	
+	
+	<storableObject>
+		<node>
+			<name>The explosion lasts just a few seconds, but the remnant will brighten over the course of a night</name>
+			<info> </info>
+			<time>115000</time>
+		</node>
+	</storableObject>	
+	
+	<storableObject>
+		<line>
+			<name>and</name>
+			<from>Brief events</from>
+			<to>The explosion lasts just a few seconds, but the remnant will brighten over the course of a night</to>
+		</line>
+	</storableObject>
+	
+	<storableObject>
+		<node>
+			<name>Occur hundreds of millions of light years away</name>
+			<info>A light year is a unit of length. 1 light year is the distance covered by light in 1 year whilst travelling at the speed of light (300,000,000 metres per second). This means that if a star is 1 million light years away, the starlight takes 1 million years to reach the earth when travelling at the speed of light. The light we see is actually 1 million years old.</info>
+			<time>222000</time>
+		</node>
+	</storableObject>
+	
+	<storableObject>
+		<line>
+			<name>and</name>
+			<from>The explosion lasts just a few seconds, but the remnant will brighten over the course of a night</from>
+			<to>Occur hundreds of millions of light years away</to>
+		</line>
+	</storableObject>
+	
+	<storableObject>
+		<node>
+			<name>Rare events</name>
+			<info> </info>
+			<time>123000</time>
+		</node>
+	</storableObject>
+	
+	<storableObject>
+		<line>
+			<name>are</name>
+			<from>SUPERNOVAE</from>
+			<to>Rare events</to>
+		</line>
+	</storableObject>
+	
+		<storableObject>
+		<node>
+			<name>We must search for them in galaxies as well as our own to maximise the chance of observation</name>
+			<info> </info>
+			<time>135000</time>
+		</node>
+	</storableObject>
+	
+		<storableObject>
+		<line>
+			<name>so</name>
+			<from>Rare events</from>
+			<to>We must search for them in galaxies as well as our own to maximise the chance of observation</to>
+		</line>
+	</storableObject>
+
+	<storableObject>
+		<node>
+			<name>Only 2 or 3 are observed per galaxy per century</name>
+			<info> </info>
+			<time>177000</time>
+		</node>
+	</storableObject>	
+	
+	<storableObject>
+		<line>
+			<name>as</name>
+			<from>We must search for them in galaxies as well as our own to maximise the chance of observation</from>
+			<to>Only 2 or 3 are observed per galaxy per century</to>
+		</line>
+	</storableObject>
+
+	<storableObject>
+		<node>
+			<name>Observed by using robotic telescope to compare pictures of many galaxies on different nights</name>
+			<info> </info>
+			<time>240000</time>
+		</node>
+	</storableObject>	
+	
+	<storableObject>
+		<line>
+			<name>are</name>
+			<from>SUPERNOVAE</from>
+			<to>Observed by using robotic telescope to compare pictures of many galaxies on different nights</to>
+		</line>
+	</storableObject>
+	
+	<storableObject>
+		<node>
+			<name>If a new object appears, this is a candidate for a supernova</name>
+			<info> </info>
+			<time>203000</time>
+		</node>
+	</storableObject>	
+	
+	<storableObject>
+		<line>
+			<name>and</name>
+			<from>Observed by using robotic telescope to compare pictures of many galaxies on different nights</from>
+			<to>If a new object appears, this is a candidate for a supernova</to>
+		</line>
+	</storableObject>	
+	
+	<storableObject>
+		<node>
+			<name>Intense explosions</name>
+			<info> </info>
+			<time>36000</time>
+		</node>
+	</storableObject>	
+	
+	<storableObject>
+		<line>
+			<name>are</name>
+			<from>SUPERNOVAE</from>
+			<to>Intense explosions</to>
+		</line>
+	</storableObject>
+
+	<storableObject>
+		<node>
+			<name>As bright as 10 million suns</name>
+			<info> </info>
+			<time>39000</time>
+		</node>
+	</storableObject>	
+	
+		<storableObject>
+		<line>
+			<name>are</name>
+			<from>Intense explosions</from>
+			<to>As bright as 10 million suns</to>
+		</line>
+	</storableObject>
+
+	<storableObject>
+		<node>
+			<name>Made up of 92 elements</name>
+			<info> </info>
+			<time>264000</time>
+		</node>
+	</storableObject>
+	
+	<storableObject>
+		<line>
+			<name>which is</name>
+			<from>Observed as coloured starlight</from>
+			<to>Made up of 92 elements</to>
+		</line>
+	</storableObject>
+	
+	<storableObject>
+		<node>
+			<name>Different elements appear different colours when heated</name>
+			<info> </info>
+			<time>281000</time>
+		</node>
+	</storableObject>	
+	
+	<storableObject>
+		<line>
+			<name>and</name>
+			<from>Made up of 92 elements</from>
+			<to>Different elements appear different colours when heated</to>
+		</line>
+	</storableObject>	
+
+</conceptMap>
