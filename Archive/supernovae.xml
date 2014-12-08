@@ -1,0 +1,108 @@
+<conceptMap>
+
+	<title>SuperNovae</title>
+	<length>776000</length>
+	
+	<storableObject>
+		<node>
+		<properties>
+			<name>SuperNova</name>
+			<label>SUPERNOVAE</label>
+			<quote>"SuperNovae are the explosive dramatic death throws of the most massive stars in the universe"</quote>
+			<brief_info>A supernova is a stellar explosion that briefly outshines an entire galaxy</brief_info>
+			<indepth_info>They only occur when the most massive stars die and can radiate as much enegery as the sun is expected to in its lifespan</indepth_info>
+			<time>19000</time>
+			<pic>http://i.space.com/images/i/000/004/210/i02/080603-iod-supernova-02.jpg?1292268585</pic>
+		</properties>
+		<quiz>
+			<question type="conceptual">The Kepler Supernova was spotted in 1604 and was the last recorded sighted of a supernova visible with the naked eye in our galaxy from the Ophiucus constellation 20,000 light years away. When did the supernova occur?</question>
+			<answer correct="true">20,000 years ago</answer>
+			<answer correct="false"> 409 years ago</answer>
+			<answer correct="false"> 1000 years ago</answer>
+		</quiz>
+		</node>
+		</storableObject>
+			
+	<storableObject>
+			<node>
+				<properties>
+					<name>Bright_Intense</name>
+					<label>Bright And Intense</label>
+					<quote>"Explosions so bright and intense that they briefly the output of 10 billion suns"</quote>
+					<brief_info>Supernovae are more energetic than a nova which means "new" in Latin, referring to what appears to be a very bright new star shining. Supernova are far brighter than nova (explosion of a white dwarf)</brief_info>
+					<indepth_info>This burst of radiation is expelled at 30,000 km/s which is about 10% the speed of light. Creating a shock wave which sweeps up an expanding shell of gas and dust called a supernova remnant</indepth_info>
+					<time>28000</time>
+					<pic>http://blogs.webtrends.com/wp-content/uploads/2012/11/bright-light.jpg</pic>
+				</properties>
+				<quiz>
+					<question type="factual_recall">How many suns can the supernova outshine?</question>
+					<answer correct="false">10 million</answer>
+					<answer correct="false">1 billion </answer>
+					<answer correct="true">10 billion</answer>
+				</quiz>
+			</node>
+		</storableObject>
+	<storableObject>
+				<line>
+					<name>are</name>
+					<from>SuperNova</from>
+					<to>Bright_Intense</to>
+				</line>
+	</storableObject>
+	<storableObject>	
+		<node>
+		<properties>
+			<name>Particularly_Rare</name>
+			<label>Particularly Rare</label>
+			<quote>"They are so rare that for hundreds of years, no-one saw any at all"</quote>
+			<brief_info>Although the explosions are huge, they can happen very far away and need a telescope to see</brief_info>
+			<indepth_info>Because supernovae are relatively rare events within a galaxy, occurring about three times a century in the Milky Way- though one hasn't actually been observed since the Kepler supernova in the 17th Century.</indepth_info>
+			<time>56000</time>
+			<pic>http://blogs.webtrends.com/wp-content/uploads/2012/11/bright-light.jpg</pic>
+		</properties>
+		<quiz>
+			<question type="conceptual">Which of these is NOT a factor in the rarity of supernovae?</question>
+			<answer correct="false">Only the most massive stars will supernovae</answer>
+			<answer correct="false">The huge amount of galaxies and stars make it difficult to do an organised search </answer>
+			<answer correct="true">Supernovae are not as common as they were hundreds of years ago</answer>
+		</quiz>
+		</node>
+		</storableObject>
+		
+	<storableObject>
+		<line>
+			<name>are</name>
+			<from>SuperNova</from>
+			<to>Particularly_Rare</to>
+		</line>
+		</storableObject>
+		
+		
+	<storableObject>
+		<node>
+		<properties>
+			<name>Dramatic</name>
+			<label>Dramatic</label>
+			<quote>"Usually nothing much happens in astronomy"</quote>
+			<brief_info>Since stars live for millions or billions of years, the fact that supernovae can happen over the span over a single night makes it extremely dramatic</brief_info>
+			<indepth_info> </indepth_info>
+			<time>97000</time>
+			<pic>http://i.kinja-img.com/gawker-media/image/upload/s--bLPoWlGb--/c_fit,fl_progressive,q_80,w_636/18lsbhx2mawsijpg.jpg</pic>
+		</properties>
+		<quiz>
+			<question type="conceptual">True or False - Supernovae are only deemed dramatic because of their size</question>
+			<answer correct="true">False</answer>
+			<answer correct="false">True</answer>
+		</quiz>
+		</node>
+</storableObject>
+
+	<storableObject>
+		<line>
+			<name>are</name>
+			<from>SuperNova</from>
+			<to>Dramatic</to>
+		</line>
+</storableObject>
+
+	</conceptMap>

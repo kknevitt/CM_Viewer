@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conceptMap>
+
+	<metadata>
+		<title>SuperNovae</title>
+		<length>774000</length>
+	</metadata>
+	
+	<storableObject>
+		<node>
+		<properties>
+			<name>SuperNova</name>
+			<label>SUPERNOVAE</label>
+			<quote>...</quote>
+			<brief_info>A supernova is a stellar explosion that briefly outshines an entire galaxy</brief_info>
+			<indepth_info>They only occur when the most massive stars die and can radiate as much enegery as the sun is expected to in its lifespan</indepth_info>
+			<time>1000</time>
+			<pic>http://i.space.com/images/i/000/004/210/i02/080603-iod-supernova-02.jpg?1292268585</pic>
+		</properties>
+		<quiz>
+			<question type="conceptual">The Kepler Supernova was spotted in 1604 and was the last recorded sighted of a supernova visible with the naked eye in our galaxy from the Ophiucus constellation 20,000 light years away. When did the supernova occur?</question>
+			<answer correct="true">20,000 years ago</answer>
+			<answer correct="false"> 409 years ago</answer>
+			<answer correct="false"> 1000 years ago</answer>
+		</quiz>
+		</node>
+	</storableObject>
+
+	
+	<storableObject>
+			<node>
+			<properties>
+				<name>Bright_Intense</name>
+				<label>Bright And Intense</label>
+				<quote>"Explosions so bright and intense that they briefly the output of 10 billion suns"</quote>
+				<brief_info>Supernovae are more energetic than a nova which means "new" in Latin, referring to what appears to be a very bright new star shining. Supernova are far brighter than nova (explosion of a white dwarf)</brief_info>
+				<indepth_info>This burst of radiation is expelled at 30,000 km/s which is about 10% the speed of light. Creating a shock wave which sweeps up an expanding shell of gas and dust called a supernova remnant</indepth_info>
+				<time>28000</time>
+				<pic>http://blogs.webtrends.com/wp-content/uploads/2012/11/bright-light.jpg</pic>
+			</properties>
+			<quiz>
+				<question type="factual">How many suns can the supernova outshine?</question>
+				<answer correct="false">10 million</answer>
+				<answer correct="false">1 billion </answer>
+				<answer correct="true">10 billion</answer>
+			</quiz>
+			</node>
+</storableObject>	
+	
+	
+		<storableObject>	
+		<node>
+		<properties>
+			<name>Particularly_Rare</name>
+			<label>Particularly Rare</label>
+			<quote>"They are so rare that for hundreds of years, no-one saw any at all"</quote>
+			<brief_info>Although the explosions are huge, they can happen very far away and need a telescope to see</brief_info>
+			<indepth_info>Because supernovae are relatively rare events within a galaxy, occurring about three times a century in the Milky Way- though one hasn't actually been observed since the Kepler supernova in the 17th Century.</indepth_info>
+			<time>56000</time>
+			<pic>http://www.scientificamerican.com/media/inline/blog/Image/hs-2004-29-b-web.jpg</pic>
+		</properties>
+		<quiz>
+			<question type="conceptual">Which of these is NOT a factor in the rarity of supernovae?</question>
+			<answer correct="false">Only the most massive stars will supernovae</answer>
+			<answer correct="false">The huge amount of galaxies and stars make it difficult to do an organised search </answer>
+			<answer correct="true">Supernovae are not as common as they were hundreds of years ago</answer>
+		</quiz>
+		</node>
+		</storableObject>
+
+		
+	<storableObject>
+		<node>
+		<properties>
+			<name>Dramatic</name>
+			<label>Dramatic</label>
+			<quote>"Usually nothing much happens in astronomy"</quote>
+			<brief_info>Since stars live for millions or billions of years, the fact that supernovae can happen over the span over a single night makes it extremely dramatic</brief_info>
+			<indepth_info>Some of the most distant supernovae recently observed appeared dimmer than expected. This supports the view that the expansion of the universe is accelerating. Techniques were developed for reconstructing supernova explosions that have no written records of being observed. The date of the Cassiopeia A supernova event was determined from light echoes off nebulae, while the age of supernova remnant RX J0852.0-4622 was estimated from temperature measurements </indepth_info>
+			<time>97000</time>
+			<pic>http://i.kinja-img.com/gawker-media/image/upload/s--bLPoWlGb--/c_fit,fl_progressive,q_80,w_636/18lsbhx2mawsijpg.jpg</pic>
+		</properties>
+		<quiz>
+			<question type="conceptual">True or False - Supernovae are only deemed dramatic because of their size</question>
+			<answer correct="true">False</answer>
+			<answer correct="false">True</answer>
+		</quiz>
+		</node>
+	</storableObject>
+		
+		
+	<storableObject>
+		<node>
+		<properties>
+			<name>Scientists</name>
+			<label>Scientists</label>
+			<quote>"There's no calendar telling you where and when to look for supernovae, you just look kinda randomly"</quote>
+			<brief_info>Since the development of the telescope, the field of supernova discovery has extended to other galaxies, starting with the 1885 observation of supernova S Andromedae in the Andromeda galaxy</brief_info>
+			<indepth_info>American astronomers Rudolph Minkowski and Fritz Zwicky developed the modern supernova classification scheme beginning in 1941. In the 1960s, astronomers found that the maximum intensities of supernova explosions could be used as standard candles, hence indicators of astronomical distances</indepth_info>
+			<time>149000</time>
+			<pic>http://www-history.mcs.st-and.ac.uk/BigPictures/Kepler.jpeg</pic>
+		</properties>
+		<quiz>
+			<question type="conceptual">Some of the most distant supernovae recently observed by scientists appeared dimmer than expected, what does this suggest? </question>
+			<answer correct="true">The expansion of the universe is accelerating.</answer>
+			<answer correct="false">The current techniques for calculating distance to distant celestial objects are flawed</answer>
+			<answer correct="false">The actual size of supernovae is not consistent with scientific estimates</answer>
+		</quiz>
+		</node>
+	</storableObject>	
+	
+	<storableObject>
+		<node>
+		<properties>
+			<name>Searching</name>
+			<label>Repeatedly Searching</label>
+			<quote>"You really have to scan thousands of galaxies in order to find a few each year"</quote>
+			<brief_info>Rather than searching manually, telescopes take pictures of huge numbers of galaxies and then compares with previous pictures looking for change </brief_info>
+			<indepth_info>Supernova searches fall into two classes: those focused on relatively nearby events and those looking for explosions farther away. Because of the expansion of the universe, the distance to a remote object with a known emission spectrum can be estimated by measuring its Doppler shift (or redshift); on average, more distant objects recede with greater velocity than those nearby, and so have a higher redshift</indepth_info>
+			<time>155000</time>
+			<pic>http://smithsonianscience.org/wordpress/wp-content/uploads/2011/01/telescope..jpg</pic>
+		</properties>
+		<quiz>
+			<question type="conceptual">Given that only 2 or or 3 supernovae occur per galaxy per century, what is the best way of increasing the odds of finding supernovae? </question>
+			<answer correct="true">Look at many different galaxies.</answer>
+			<answer correct="false">Focus on one galaxy search as thoroughly as possible</answer>
+		</quiz>
+		</node>
+	</storableObject>
+
+		
+	<storableObject>
+		<node>
+		<properties>
+			<name>Distance</name>
+			<label>Being So Far Away</label>
+			<quote>"The Supernovae that Alex photographs are hundreds of millions of light years away"</quote>
+			<brief_info>A light year is a measurement of distance that would take light a year to travel (just under 10 trillion KM)</brief_info>
+			<indepth_info>Supernovae in other galaxies cannot be predicted with any meaningful accuracy. Normally, when they are discovered, they are already in progress.[28] Most scientific interest in supernovae—as standard candles for measuring distance, for example—require an observation of their peak luminosity. It is therefore important to discover them well before they reach their maximum.</indepth_info>
+			<time>215000</time>
+			<pic>http://cbsnews2.cbsistatic.com/hub/i/r/2014/03/26/04e28815-9534-43e6-9cfd-a49d55a424bd/thumbnail/620x350/ee347b05f620ac2ceaafc06346ca81be/hubble-galaxy-spills-620x442.jpg</pic>
+		</properties>
+		<quiz>
+			<question type="factual">Light-years are a measurement of:</question>
+			<answer correct="true">The relative time it takes for light to travel in a year from our perspective</answer>
+			<answer correct="false">The distance that light can travel in a year.</answer>
+		</quiz>
+		</node>
+	</storableObject>
+	
+	<storableObject>
+		<node>
+	<properties>
+			<name>Magnitude</name>
+			<label>Magnitude</label>
+			<quote>"The only reason he can photograph them so distinctly, is because they are such colossal explosions"</quote>
+			<brief_info>There are about 100 billion stars in a galaxy, so to be able to identify a supernovea means that it must stand out.</brief_info>
+			<indepth_info>Supernovae are classified according to their "light curve" - given their apparent magnitude (a measure of its brightness as seen by an observer on Earth) versus time </indepth_info>
+			<time>225000</time>
+			<pic>http://i.kinja-img.com/gawker-media/image/upload/s--bLPoWlGb--/c_fit,fl_progressive,q_80,w_636/18lsbhx2mawsijpg.jpg</pic>
+		</properties>
+		<quiz>
+			<question type="conceptual">Given that supernovae are so massive is it possible to see Supernovaes with the naked eye?</question>
+			<answer correct="false">No they are always too far away to be seen without a telescope</answer>
+			<answer correct="false">Yes, Supernovae are so large that you can observe them in other galaxies with the naked eye</answer>
+			<answer correct="true">It is possible when they are in our own galaxy, such as the Kepler Supernova</answer>
+		</quiz>
+		</node>
+	</storableObject>
+	
+	<storableObject>
+		<node><properties>
+			<name>92_Elements</name>
+			<label>92 elements</label>
+			<quote>"For centuries, scientists have known that everything we see on earth is made up of 92 elements, and the stars are made of the same ones"</quote>
+			<brief_info>A chemical element is a pure chemical substance consisting of a single type of atom distinguished by its atomic number, which is the number of protons in its atomic nucleus. Elements are divided into metals, metalloids, and nonmetals</brief_info>
+			<time>255000</time>
+			<indepth_info>The periodic table gives more than 92 elements, these are called transuranics "man-made" elements because they are normally not found in nature. Though it has been verified that very small amounts have been.</indepth_info>
+		</properties>
+			<quiz>
+			<question type="factual">True or False: There are 92 known elements in existence</question>
+			<answer correct="true">False</answer>
+			<answer correct="false">True</answer>
+
+		</quiz></node>
+	</storableObject>
+	
+		<storableObject>
+		<node><properties>
+			<name>Coloured_Starlight</name>
+			<label>Different elements appear different colours when heated</label>
+			<quote>Different Elements give off different colours of light when they're heated or energised.</quote>
+			<brief_info> A flame test is an analytic procedure used in chemistry to detect the presence of certain elements, for example, copper produces a blue flame, lithium and strontium a red flame, calcium an orange flame, sodium a yellow flame, and barium a green flame. </brief_info>
+			<time>275000</time>
+			<pic>https://img.youtube.com/vi/li2P2I3tCxw/0.jpg</pic>
+			<indepth_info>The heat of the flame excites certain atomic energy levels and then when the electrons fall back in they emit specific wavelength light. This, or it's opposite - specific wavelength absorption, is the basis of Atomic Absorption Spectrophotometry </indepth_info>
+		</properties>
+			<quiz>
+			<question type="factual">When burned, copper will produce which colour?</question>
+			<answer number="1" correct="true">blue </answer>
+			<answer number="2" correct="false">red </answer>
+			<answer number="2" correct="false">green </answer>
+			<answer number="2" correct="false">yellow </answer>
+		</quiz></node>
+	</storableObject>
+	
+	
+	<storableObject>
+		<node><properties>
+			<name>Remnants</name>
+			<label>Coloured Remnants</label>
+			<quote>Look at the remnant of a supernova and you can spot the signature colours of some elements.</quote>
+			<brief_info>The remnant of a supernova explosion consists of a compact object and a rapidly expanding shock wave of material. A prism can be used to further split the light to create a spectrum of the light coming from the supernova to detect which elements are present</brief_info>
+			<time>310000</time>
+			<pic>http://www4.ncsu.edu/~bjwilli2/crab.jpg</pic>
+			<indepth_info>Astronomical spectroscopy is the study of astronomy using the techniques of spectroscopy to measure the spectrum of electromagnetic radiation, including visible light, which radiates from stars and other hot celestial objects. Spectroscopy can be used to derive many properties of distant stars and galaxies, such as their chemical composition, temperature, density, mass, distance, luminosity, and relative motion using Doppler shift measurements.</indepth_info>
+		</properties>
+			<quiz>
+			<question type="conceptual">Supernovae are classified based on the presence or absence of certain features in their optical spectra, what would this depend on?</question>
+			<answer number="1" correct="true"> The presence of certain elements identified within</answer>
+			<answer number="2" correct="false"> The proximity to earth</answer>
+			<answer number="2" correct="false"> The luminosity level of the emissions of the supernova</answer>
+		</quiz></node>
+	</storableObject>
+		
+				
+		<storableObject>
+		<node><properties>
+			<name>Origin</name>
+			<label>Origin of Elements</label>
+			<quote>"The question that baffled scientists for centuries though, was where did all the elements come from?"</quote>
+			<brief_info>The nuclei of hydrogen and helium, the lightest and most abundant elements in the visible universe, were created in the moments following the Big Bang, but where did the rest come from?</brief_info>
+			<time>360000</time>
+			<indepth_info>Approximately 73% of the mass of the visible universe is in the form of hydrogen. Helium makes up about 25% of the mass, and everything else represents only 2%. While the abundance of these more massive ("heavy", A > 4) elements seems quite low, it is important to remember that most of the atoms in our bodies and Earth are a part of this small portion of the matter of the universe.</indepth_info>
+			<pic>http://www.astro.washington.edu/users/anamunn/Astro101/LecturesBennett/EvolutionStars/periodic_chart1.gif</pic>
+		</properties>
+				<quiz>
+			<question type="factual">Scientists have been struggling to explain the origin of elements for the last few: </question>
+			<answer number="1" correct="true">Centuries</answer>
+			<answer number="2" correct="false">Decades</answer>
+			<answer number="3" correct="false">Millenia</answer>
+			<answer number="4" correct="false">Years</answer>
+			
+		</quiz></node>
+	</storableObject>
+	
+					
+	<storableObject>
+		<node><properties>
+			<name>Fred_Hoyle</name>
+			<label>Fred Hoyle</label>
+			<quote>"Fred Hoyle blows up stars by computer, this cosmic anarchist is the most controversial of theorists.</quote>
+			<brief_info>Fred Hoyle and his team worked to prove that elements were created in stars, including that supernovae create the heaviest of them. </brief_info>
+			<time>405000</time>
+			<indepth_info>Fred Hoyle authored the first two research papers ever published on the synthesis of the chemical elements heavier than helium by nuclear reactions in stars. The first of these [6] in 1946 showed that the cores of stars will evolve to temperatures of billions of degrees, much hotter than temperatures considered for thermonuclear origin of stellar power in main sequence stars. Hoyle showed that at such high temperatures the element iron can become much more abundant than other heavy elements owing to thermal equilibrium among nuclear particles, explaining the high natural abundance of iron. This idea would later be called the e Process</indepth_info>
+			<pic>http://upload.wikimedia.org/wikipedia/en/f/ff/Fred_Hoyle.jpg</pic>
+		</properties>
+				<quiz>
+			<question type="factual">Nuclear Fusion within stars allow for the creation of elements, but what did Fred Hoyle prove that was unique to supernovae?</question>
+			<answer number="1" correct="true">They are so hot that they are able to create the heavier elements that would otherwise not exist</answer>
+			<answer number="2" correct="false">They were were so large that they create the majority of elements in existence.</answer>
+		</quiz></node>
+	</storableObject>
+	
+	
+
+	<storableObject>
+		<node><properties>
+			<name>Death</name>
+			<label>Death of a Star</label>
+			<quote>"SuperNovae are the explosive dramatic death throws of the most massive stars in the universe"</quote>
+			<brief_info>Not all stars that die become supernovae, only those that are 8 times the mass of our sun can supernovae </brief_info>
+			<time>19000</time>
+			<indepth_info>There are in fact a number of different possibilites for the death of a star, if smaller it may become a red giant, to white dwarf to black dwarf, while larger will become red super giant to supernovae then either a neutron star or black hole. </indepth_info>
+			<pic>http://static.comicvine.com/uploads/original/13/130470/2940573-deathstar.jpg</pic>
+		</properties>
+				<quiz>
+			<question type="factual">All stars will inevitably die and result in a supernova</question>
+			<answer number="1" correct="true">False</answer>
+			<answer number="2" correct="false">True</answer>
+		</quiz></node>
+	</storableObject>
+
+
+	<storableObject>
+		<node><properties>
+			<name>Fusion_vs_Gravity</name>
+			<pic>http://large.stanford.edu/courses/2011/ph241/olson1/images/f1big.gif</pic>
+			<label>Fusion vs Gravity</label>
+			<quote>"The key was the conditions created in the final stages of a massive stars fight against gravity.</quote>
+			<brief_info>The stars energy comes from nuclear fusion - the joining of two atomic nuclei to a nucleus. </brief_info>
+			<time>464000</time>
+			<indepth_info>The fusion process in the sun is a delicate one. This is due to the fact that conditions needed to sustain the fusion burn are very extreme. Indeed, outside of nuclear weapons, fusion has made very few appearances on planet Earth. The burning plasma, or ionized gas, of Hydrogen atoms must be contained, otherwise it will blow apart and decrease its density to a level that will not promote fusion. This occurs in stars when the fusion rate becomes too rapid or the core too hot and the star becomes a supernova</indepth_info>
+		</properties>
+				<quiz>
+			<question type="factual">Throughout a stars life, there is a balance between the inward pull of gravity, and the outward release of energy from nuclear fusion </question>
+			<answer number="1" correct="true">True</answer>
+			<answer number="2" correct="false">False</answer>
+		</quiz></node>
+	</storableObject>	
+	
+		<storableObject>
+		<node><properties>
+			<name>Layers</name>
+			<label>Layers of Elements</label>
+			<quote>"The most massive stars are able to fuse heavier and heavier elements in a series of layers, creating the energy to resist the inward pull of gravity" </quote>
+			<brief_info>Stars create layers of elements, with heavier elements towards the core.  Stars are said to evolve (age) with changes in the abundances of the elements within. </brief_info>
+			<time>487000</time>
+			<pic>http://centralastronomyclass.pbworks.com/f/Evolved_star_fusion_shells.png</pic>
+			<indepth_info>Core fusion increases the atomic weight of its gaseous elements, causing pressure loss and contraction accompanied by increase of temperature.[1] Structural changes of the star (evolution) become necessary to stabilize it. Stars lose most of their mass when it is ejected late in their stellar lifetimes, thereby increasing the abundance of elements heavier than helium in the interstellar medium</indepth_info>
+		</properties>
+				<quiz>
+			<question type="factual">Fusion of elements within a star stops at iron, why is this?</question>
+			<answer number="1" correct="true">Elements beyond iron require additional energy for fusion to occur, rather than produce it</answer>
+			<answer number="2" correct="false">Iron is the heaviest known element that can be created as a result of fusion</answer>
+			<answer number="2" correct="false">Iron cannot be created as a result of fusion</answer>
+		</quiz></node>
+	</storableObject>	
+	
+			<storableObject>
+		<node><properties>
+			<name>Gravity</name>
+			<label>Gravity Wins</label>
+			<quote>"It is the speed and violence of the collapse of the stars iron core that triggers supernova, an implosion that launches an supernova.</quote>
+			<brief_info>"Gravitational collapse" of a star occurs at the end of its lifetime, also called the death of the star. When all stellar energy sources are exhausted, the star will undergo a gravitational collapse.</brief_info>
+			<time>528000</time>
+			<indepth_info>Because gravity is weak compared to other fundamental forces, gravitational collapse is usually associated with very massive bodies or collections of bodies, such as stars (including collapsed stars such as supernovae, neutron stars and black holes) and massive collections of stars such as globular clusters and galaxies.</indepth_info>
+		</properties>
+				<quiz>
+			<question type="conceptual">When the core of a massve star undergoes a sudden gravitational collapse, what type of energy creates a supernova explosion?</question>
+			<answer number="1" correct="true">Gravitational potential energy</answer>
+			<answer number="2" correct="false">Gravitational elastic energy </answer>
+			<answer number="2" correct="false">Gravitational chemeical energy</answer>
+			<answer number="2" correct="false">Gravitational electric energy</answer>
+		</quiz></node>
+	</storableObject>	
+	
+		<storableObject>
+		<node><properties>
+			<name>Rarest_Elements</name>
+			<label>Rarest Elements</label>
+			<quote>"The supernova explosion is able to produce some of the very rare elements, heavier than iron: the zinc, the gold, the platinum, the silver. </quote>
+			<brief_info>These rare elements can only be created in the conditions of a supernova, including those essential for life.</brief_info>
+			<time>571000</time>
+			<pic>http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/120223-ElementPhoto-hmed-0815a.grid-6x2.jpg</pic>
+			<indepth_info>There are theorized to be different types of supernova, some of which have the extreme conditions to create the even rarer elements.Such supernovae create the extreme conditions necessary for rapid neutron capture — commonly known as the “r-process” (“r” is for “rapid”) — a process thought to explain neutron-rich elements in the periodic table.  </indepth_info>
+		</properties>
+				<quiz>
+			<question type="factual">Elements are normally created by the fusion in stars, but supernova allows for the creation of elements heavier than:</question>
+			<answer number="1" correct="true">Iron</answer>
+			<answer number="2" correct="false">Zinc</answer>
+			<answer number="2" correct="false">Helium</answer>
+			<answer number="2" correct="false">Gold</answer>
+			<answer number="2" correct="false">Oxygen</answer>
+		</quiz></node>
+	</storableObject>	
+
+	
+
+	<storableObject>
+		<line>
+			<name>Have Known</name>
+			<from>Scientists</from>
+			<to>92_Elements</to>
+		</line>
+	</storableObject>
+	
+	<storableObject>
+		<line>
+			<name>and</name>
+			<from>92_Elements</from>
+			<to>Coloured_Starlight</to>
+		</line>
+	</storableObject>
+	
+	<storableObject>
+		<line>
+			<name>are</name>
+			<from>SuperNova</from>
+			<to>Bright_Intense</to>
+		</line>
+	</storableObject>
+
+	<storableObject>
+		<line>
+			<name>Linked To	</name>
+			<from>SuperNova</from>
+			<to>Origin</to>
+		</line>
+	</storableObject>
+
+	<storableObject>
+		<line>
+			<name>The Final Stages of</name>
+			<from>SuperNova</from>
+			<to>Death</to>
+		</line>
+	</storableObject>
+
+	<storableObject>
+	<line>
+		<name>are</name>
+		<from>SuperNova</from>
+		<to>Particularly_Rare</to>
+	</line>
+	</storableObject>
+	
+	<storableObject>
+	<line>
+		<name>are</name>
+		<from>SuperNova</from>
+		<to>Dramatic</to>
+	</line>
+	</storableObject>
+	
+	<storableObject>
+	<line>
+		<name>Sought after by</name>
+		<from>Particularly_Rare</from>
+		<to>Scientists</to>
+	</line>
+	</storableObject>
+	
+	<storableObject>
+	<line>
+		<name>Tackled By</name>
+		<from>Particularly_Rare</from>
+		<to>Searching</to>
+	</line>
+	</storableObject>
+	
+	<storableObject>
+	<line>
+		<name>Made Harder By</name>
+		<from>Searching</from>
+		<to>Distance</to>
+	</line>
+	</storableObject>
+	
+			<storableObject>
+	<line>
+		<name>Made Possible By</name>
+		<from>Searching</from>
+		<to>Magnitude</to>
+	</line>
+	</storableObject>
+	
+	<storableObject>
+	<line>
+		<name>Made of the Same</name>
+		<from>92_Elements</from>
+		<to>Remnants</to>
+	</line>
+	</storableObject>
+
+		<storableObject>
+	<line>
+		<name>Researched By</name>
+		<from>Origin</from>
+		<to>Fred_Hoyle</to>
+	</line>
+	</storableObject>
+	
+			<storableObject>
+	<line>
+		<name>Created During</name>
+		<from>Origin</from>
+		<to>Death</to>
+	</line>
+	</storableObject>
+	
+	<storableObject>
+	<line>
+		<name>Result of</name>
+		<from>Death</from>
+		<to>Fusion_vs_Gravity</to>
+	</line>
+	</storableObject>
+	
+		<storableObject>
+	<line>
+		<name>Produces</name>
+		<from>Fusion_vs_Gravity</from>
+		<to>Layers</to>
+	</line>
+	</storableObject>
+	
+	<storableObject>
+	<line>
+		<name>When Fusion Ends</name>
+		<from>Fusion_vs_Gravity</from>
+		<to>Gravity</to>
+	</line>
+	</storableObject>
+	
+		<storableObject>
+	<line>
+		<name>Allowing for</name>
+		<from>Origin</from>
+		<to>Rarest_Elements</to>
+	</line>
+	</storableObject>
+
+
+</conceptMap>

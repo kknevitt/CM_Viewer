@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+		<meta content="utf-8" http-equiv="encoding">
+				<link rel="stylesheet" type="text/css"  media="screen and (min-device-width: 800px) and (max-width: 1600px)" href="resources/styles/map_style_medium.css">
+		<link rel="stylesheet" type="text/css" media="screen and (min-device-width: 1601px)"href="resources/styles/map_style_large.css">
+
+		<link rel="stylesheet" href="jqui/jquery-ui.css">
+		
+		<script type="text/javascript" src="resources/scripts/loadxmldoc.js"></script>
+		<script type="text/javascript" src="resources/plugins/jquery-2.1.1.js"></script>
+		<script type="text/javascript" src="jqui/jquery-ui.js"></script>
+		<script type="text/javascript" src="resources/plugins/jquery.jsPlumb-1.4.1-all-min.js"></script>
+		<script type="text/javascript" src="resources/plugins/jquery.overlaps.js"></script>
+		<script type="text/javascript" src="resources/plugins/jquery.scrollTo.js"></script>
+		<script type="text/javascript" src="resources/plugins/jquery-cookie.js"></script>
+		
+		<script type="text/javascript" src="resources/scripts/concept_map.js"></script>
+		<script type="text/javascript" src="resources/scripts/map_controller.js"></script>
+		<script type="text/javascript" src="resources/scripts/drawing_controller.js"></script>
+		<script type="text/javascript" src="resources/scripts/time_manager.js"></script>
+
+	</head>
+<body>
+		<div class="left">
+			<div id="info_title"><h1 id="title">Concepts</h1></div>
+
+			<div id="info_box">
+				<div id="picBox"><img class=infoPic src="http://d1jqu7g1y74ds1.cloudfront.net/wp-content/uploads/2008/05/stardeath.jpg"> </div>
+				<div class="button_set">
+				<button class="button" id="center_selected">Snap To This Node</button>
+				</div>
+
+				<div id="notificationBox"></div>
+							<div id="accordion">
+							<h3 id="quote">Quote</h3>
+							<div>
+								<p id="quote_content">
+								Here you will find a quote from the show, which mentions this concept.
+								</p>
+							</div>
+							<h3 id="explanation">Brief Explanation</h3>
+							<div>
+								<p id="explanation_content">
+								Here you will find a brief explanation of this concept designed designed to give a basic explanation.
+								</p>
+							</div>
+							<h3 id="add_info">Additional Information</h3>
+							<div>
+								<p id="add_info_content">
+								Here you will find a more in depth explanation of this concept designed designed to give more advanced information
+								</p>
+							</div>
+							<h3 id="quiz_question">Quiz Question</h3>
+							<div id="quiz">
+								<p id="quiz_question_content">
+								Here you will find a question on this concept to test your understanding!
+								</p>
+								<ul>
+								</ul> 
+							</div>
+
+						</div>
+				<div class="button_set">
+				<h2> Map Control: </h2>
+					<button class="button" id="manual_style">Manual</button>
+					<button class="button" id="auto_style">Auto</button>
+				</div>
+					</div>
+
+			</div>
+	
+		</div>
+			<div id="map_container">
+			
+				<div id="map"></div>
+			</div>
+			
+		<div id="right">
+		<div id="nodeInfo">
+		<h1 id="mapTitle">Map Title</h1>
+			
+			<h3>Current: <span>Not Yet Started<span></h3>
+			<div class="button_set">
+			<button class="button" id="center_current">Snap</button>
+			<button class="button" id="sync">Sync</button>
+			</div>	
+			<h3 id="currentTime">Time: 0.00</h3>
+			<div id="slider"></div>
+		</div>
+
+		<div id="nodeList">
+		</div>
+			<div id= "button_box">
+				<div class="button_set">
+					<button class="button" id="start">Start</button>
+					<button class="button" id="pause">Pause</button>
+
+				</div>
+				<div class="button_set">
+					<button class="button" id="reset">Reset</button>
+					<button class="button" id="finish">Finished</button>
+				</div>
+		</div>
+		</div>
+		<script type="text/javascript" src="resources/scripts/map_viewer.js"></script>
+</body>
+</html>
+

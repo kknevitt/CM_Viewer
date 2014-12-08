@@ -1,0 +1,337 @@
+body, html {
+height: 99%;
+padding:0;
+margin:0;
+}
+#accordion {
+margin-top: -10px;
+}
+#accordion h3{
+font-size:18px;
+}
+#quote_content{
+font-style:italic
+}
+#verdict
+{
+visibility: hidden;
+border-top: 2px solid grey;
+border-bottom: 2px solid grey;
+height:100%;
+width: 100%;
+}
+#notificationBox{
+height:50px;
+width: 100%;
+}
+.answer{
+cursor: pointer; cursor: hand;
+}
+body 
+{
+background-color: #061330;
+}
+#map_container{
+box-shadow: 10px 10px 5px #888888;
+margin-left:10px;
+margin-top:5px;
+display:inline-block;
+width:63%;
+height:inherit;
+overflow:hidden;
+background-color:#EDEDED;
+}
+#map {
+display: flex;
+overflow:visible;
+min-height: 400px;
+min-width: 600px;
+height: 100%;
+padding: 20px;
+position: relative;
+}
+
+.node {
+padding:5px;
+background-color: black;
+min-width: 100px;
+min-height:100px;
+max-width: 200px;
+box-shadow: 10px 10px 5px #123456;
+border: 10px solid white;
+border-color:#013A01;
+border-radius: 65px;
+z-index:99;
+position: absolute;
+opacity: 0.1;
+display:table;
+vertical-align: middle;
+
+}
+.node_wrapper{
+text-shadow: 1px 1px grey;
+color: white;
+font-size: 200%;
+height:inherit;
+width:inherit;
+display: table-cell;
+text-align: center;
+}
+
+.pastNode{
+opacity: 0.5;
+
+}
+
+.currentNode {
+padding:20px;
+border-radius: 45px;
+opacity: 1;
+
+}
+
+.selectedNode{
+border-color:#75ABFF;
+}
+
+.node:hover{
+
+cursor: pointer; cursor: hand;
+}
+
+.line {
+color: white;
+font-size:small;
+float: left;
+margin-top:25px;
+width: 64px;
+line-height: 15px;
+text-align:center;
+height: 15px;
+margin-right: 5px;
+margin-bottom: 5px;
+background-color: grey;
+}
+.left {
+margin:10px;
+background-color: #2E4272;
+box-shadow: 10px 10px 5px black;
+display:inline-block;
+width: 20%;
+float:left;
+margin: 0;
+position: relative;
+padding-top: 10px;
+text-align: center;
+font-family: helvetica, arial;
+display:inline;
+height:inherit;
+overflow:auto;
+
+}
+#accordion .ui-accordion-content {
+font-size: 15px;
+padding: 1em;
+}
+
+#accordion .ui-accordion-content ul{
+padding:0;
+padding-left:15px;
+}
+.answer{
+color:#75ABFF;
+font-weight:bold;
+margin-bottom:5px;
+text-align: left;
+}
+#info_title{
+width: 70%;
+height: 50px;
+margin: auto;
+margin-top:-5px;
+border-radius: 25px;
+border: 5px solid grey;
+background-color: #7D8EB8;
+border-top-left-radius: 2em;
+border-top-right-radius: 2em;
+border-bottom-right-radius: 0;
+border-bottom-left-radius: 0;
+box-shadow:5px 5px 50px 20px white inset;	
+
+
+}
+#info_box {
+width: 85%;
+margin: auto;
+border-radius: 5px;
+border: 5px solid grey;
+padding-bottom: 30px;
+box-shadow: 10px 10px 5px black;
+background-color: #7D8EB8;
+}
+#info_box h3{
+text-shadow: 1px 1px grey;
+}
+
+#button_box{
+padding-top:5px;
+padding-bottom:5px;
+background-color: #7D8EB8;
+border: 5px solid black;
+}
+
+.button_set{
+width:100%;
+padding:0;
+font-family: times, Times New Roman, times-roman, georgia, serif;
+letter-spacing: -1px;
+font-weight: bold;
+text-align: center;
+margin:0;
+margin-top:10px;
+}
+
+#nodeList{
+padding-top:15px;
+margin-right:0;
+height:50%;
+width: 100%;
+overflow:auto;
+
+}
+.nodeListEntry{
+position:relative;
+margin:0;
+color: #75ABFF;
+width: 80%;
+margin:auto;
+min-height: 20px;
+border: 2px solid;
+border-color:grey;
+text-align:center;
+background:  -moz-linear-gradient(bottom right, #111, #333);
+line-height: 50px;
+font-size: 15px;
+}
+.nodeListEntry:hover{	
+background:  -moz-linear-gradient(bottom right, #333, #111);
+background-color: #00498F;
+cursor: pointer; cursor: hand;
+}
+
+.line_label{
+padding:2px;
+font-size: large;
+background-color: #CFCFCF;
+border: 2px solid black;
+border-radius: 0.5em;
+color: black;
+}
+
+.line_label:hover{
+border-color:#013A01;
+}
+
+#picBox{
+margin-top:15px;
+height:120px;
+width:inherit%;
+z-index: 99;
+}
+
+.infoPic{
+box-shadow: 10px 10px 5px black;
+border: 2px solid black;
+border-radius: 25px;
+height:100%;
+max-width:90%;
+}
+
+
+#right
+{
+background-color: #2E4272;
+box-shadow: 10px 10px 5px black;
+position:absolute;
+margin:0;
+margin-top:10px;
+float:right;
+display:inline-block;
+width: 15%;
+height: 95%;
+margin-left:10px;
+}
+
+#nodeInfo
+{
+margin-top:-10px;
+border: 5px solid black;
+height:200px;
+background-color:#7D8EB8;
+padding-top:1px;
+padding-left:20px;
+padding-right:20px;
+padding-bottom:20px;
+}
+
+#nodeInfo h1
+{
+text-align: center;
+}
+#nodeInfo h3
+{
+text-align: left;
+font-size:15px; 
+}
+.qMarker
+{
+width:10%;
+display:inline-block;
+}
+.nodeListEntry_name
+{
+display:inline-block;
+height:inherit;
+width:90%;
+}
+
+._jsPlumb_connector
+{
+z-index:1;
+}
+
+._jsPlumb_overlay{
+z-index:2;
+}
+
+._jsPlumb_endpoint
+{
+opacity:0.2;
+} 
+
+.jsPlumbelementdragging{
+stroke:white;
+}
+h1{
+font-family: times, Times New Roman, times-roman, georgia, serif;
+letter-spacing: -1px;
+font-size:22px;
+}
+h2{
+font-family: times, Times New Roman, times-roman, georgia, serif;
+letter-spacing: -1px;		
+font-size:20px; 
+}
+
+#slider{
+margin-top:-10px;
+}
+button
+{/*This was looked up http://stackoverflow.com/questions/5754439/how-to-make-bevel-and-embosed-effect-to-button-in-css-3-for-web-kit-based-browse */
+box-shadow: 
+0 1px 2px #fff, /*bottom external highlight*/
+0 -1px 1px #666, /*top external shadow*/ 
+inset 0 -1px 1px rgba(0,0,0,0.5), /*bottom internal shadow*/ 
+inset 0 1px 1px rgba(255,255,255,0.8); /*top internal highlight*/
+font-size: 15px !important;
+}
